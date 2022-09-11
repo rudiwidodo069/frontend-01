@@ -38,3 +38,7 @@ next-env.d.ts
 # plugins
 .husky
 .storybook
+.eslintcache
+.eslintignore
+yarn.lock
+yarn-error.log
